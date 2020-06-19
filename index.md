@@ -12,3 +12,7 @@ Mein Lieblingscharakter sagt:
 
 > Wenn Du es eilig hast,
 > gehe langsam
+
+Bild
+
+<img src="https://www.freepik.com/free-vector/happy-businessman-making-thumbs-up-sign_1577719.htm#page=1&query=Cartoon&position=19"/>
