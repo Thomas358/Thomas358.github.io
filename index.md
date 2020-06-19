@@ -7,3 +7,8 @@ Das ist jetzt die detaillierte Beschreibung meines Lieblingscharakters mit wunde
 * liebt segeln
 * liebt Philosophie
 * liebt gutes Essen
+
+Mein Lieblingscharakter sagt:
+
+> Wenn Du es eilig hast,
+> gehe langsam
